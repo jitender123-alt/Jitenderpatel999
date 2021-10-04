@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jitender123-alt
-- 👀 I’m interested in development of software
-- 🌱 I’m currently learning app development
+- 👀 I’m interested in programming languages and web technoliges
+- 🌱 I have completed 3rd year polytechnic.
 - 💞️ I’m looking to collaborate on final year project
 - 📫 How to reach me jk1505091@gmail.com
 
